@@ -1,0 +1,14 @@
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+.carousel-item img {
+  height: 450px;
+  object-fit: cover;
+}
